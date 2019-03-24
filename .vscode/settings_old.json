@@ -1,0 +1,7 @@
+{ 
+    "cmake.generator": "Ninja",
+    "cmake.configureSettings": {
+      "CMAKE_MAKE_PROGRAM": "C:/nanoFramework_Tools/ninja/ninja.exe"
+    },
+    "cmake.cmakePath": "C:/nanoFramework_Tools/CMake/bin/cmake.exe"
+}

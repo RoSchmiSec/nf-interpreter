@@ -79,6 +79,7 @@ endif()
 
 #######################
 
+message(STATUS "ToolChain_Prefix is: ${TOOLCHAIN_PREFIX}")
 
 ##########################################
 # set default toolchain to GCC
